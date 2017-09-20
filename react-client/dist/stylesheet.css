@@ -1,0 +1,51 @@
+.landing-page {
+  background-color: #000000;
+  background-size: 100%;
+  width: 100%;
+  height: 100vh;
+  filter: blur(0px);
+  
+}
+
+.header {
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+}
+
+.portrait {
+  padding-left: 10%;
+  width: 90%;
+  padding-top: 10%; 
+  filter: grayscale(30%); 
+}
+
+.bio {
+  padding: 0 0 40px 0;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  width: 100%;
+  margin-left: 10%;
+}
+
+.subbios {
+  width: 90%;
+}
+
+.signature {
+  margin: 40px 0 20px 5%;
+  width: 50%;
+}
+
+.btns {
+  margin-left: 30%;
+}
+
+.lander {
+  columns: 100px 2;
+}
+
+body {
+  font-family: sans-serif;
+}
